@@ -7,7 +7,6 @@ There are a few different ways to run files, depending on the file type.
 For most challenge files, you simply need to type the program name and hit `Enter` 
 
 ## Challenge Steps
-1. Start the VSCode Workspace
-2. Open a terminal
-3. Type `/challenge/solve` in the terminal and press `Enter`
-4. Copy/paste the flag to submit! 
+1. Open a terminal in either the VSCode Workspace or the Desktop
+2. Type `/challenge/solve` in the terminal and press `Enter`
+3. Submit the flag! 
